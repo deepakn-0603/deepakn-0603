@@ -19,6 +19,4 @@ Tools: Git, Linux
 - Implemented CI/CD with Jenkins
 
 ### 🔹 Portfolio Website
-- Hosted using AWS
-- Infrastructure via Terraform
-- Automated deployment pipeline
+- Hosted using Versal
